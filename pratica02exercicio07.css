@@ -1,0 +1,13 @@
+html, body {
+    font-size: 1.1rem;
+    font-family: Verdana;
+    color: red;
+    padding: 1rem;
+    border: 3px;
+
+}
+#home {
+color: blue;
+padding: 1rem;
+border: 3px;
+}
